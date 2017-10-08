@@ -1,0 +1,23 @@
+﻿[
+            {
+                "productId": 1,
+                "productName": "Audi Q7",
+                "productCode": "AUQ7",
+                "releaseDate": "May 1st 2016",
+                "description": "Top SUV",
+                "price": 64,
+                "starRating": 5,
+                "imageUrl": "content/images/audi1.jpg"
+            },
+            {
+                "productId": 2,
+                "productName": "Nissan Murano",
+                "productCode": "NM",
+                "releaseDate": "June 1st 2016",
+                "description": "Top SUV",
+                "price": 64,
+                "starRating": 4,
+                "imageUrl": "content/images/Audi2.jpg"
+            }
+]
+
